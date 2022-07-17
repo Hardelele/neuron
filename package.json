@@ -1,0 +1,16 @@
+{
+  "name": "lead_off",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lead_off/start.js",
+  "type": "module",
+  "scripts": {
+    "start": "node lead_off/start.js",
+    "lesson1": "node no_training/lesson1.js",
+    "lesson2": "node no_training/lesson2.js",
+    "lesson3": "node no_training/lesson3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
