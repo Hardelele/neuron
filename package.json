@@ -9,6 +9,7 @@
     "lesson1": "node no_training/lesson1.js",
     "lesson2": "node no_training/lesson2.js",
     "lesson3": "node no_training/lesson3.js",
+    "lesson4": "node no_training/lesson4.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
