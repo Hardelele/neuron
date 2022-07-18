@@ -1,4 +1,4 @@
-// То же самое что и lesson 3, но вся логика перенесена в Network
+// То же самое что и lesson 3, но вся логика перенесена в Layer
 
 import {Layer} from "../libs/Layer.js";
 

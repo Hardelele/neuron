@@ -9,9 +9,9 @@ export class Layer {
     #hidden = [];
     #outputWeights;
 
-    constructor(weightsList, outputWeights) {
+    constructor(weightsMatrix, outputWeights) {
         this.#outputWeights = outputWeights;
-        weightsList.forEach(weights => this.#neurons.push(new Neuron(weights)));
+        weightsMatrix.forEach(weightsList => this.#neurons.push(new Neuron(weightsList)));
     }
 
     /**
